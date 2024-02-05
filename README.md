@@ -1,7 +1,7 @@
 # Tangerino Backend
 
 ## Versão
-1.0.0
+0.0.1-SNAPSHOT
 
 ### Configuração do Banco de Dados
 - **Requisitos**: Docker e docker-compose
