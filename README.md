@@ -1,13 +1,17 @@
 # Tangerino Backend
-- A aplicação deve ser utilizada apenas para avaliação técnica
-- versão 1.0.0
 
-#Configuração banco de dados
-- Requisitos: Docker e docker-compose
-- Executar o seguinte comando na raíz do projeto: docker-compose up -d
-- Não é necessário criar tabelas, o Hibernate já vai criar automáticamente assim que a aplicação for inicializada
+Esta aplicação destina-se exclusivamente a fins de avaliação técnica.
 
-#Configuração Backend
-- Requisitos: Java 17 e maven
-- Após instalado, baixar todas as dependencias e executar a aplicação
-# tangerino-back
+## Versão
+1.0.0
+
+### Configuração do Banco de Dados
+- **Requisitos**: Docker e docker-compose
+- Execute o seguinte comando na raiz do projeto: `docker-compose up -d`
+- Não é necessário criar tabelas, o Hibernate irá criá-las automaticamente quando a aplicação for inicializada.
+
+### Configuração do Backend
+- **Requisitos**: Java 17 e Maven
+- Após instalados, baixe todas as dependências e execute a aplicação.
+
+Se houver mais alguma dúvida ou informação necessária, sinta-se à vontade para entrar em contato ou abrir uma issue.
